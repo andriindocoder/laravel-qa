@@ -1,0 +1,6 @@
+storage/framework/ views cache sessions
+npm install
+composer dump-autoload
+composer update
+composer install
+.env

@@ -1,0 +1,8 @@
+syntax: glob
+vendor
+bootstrap/cache
+storage/framework
+.env
+storage/logs
+storage/app
+node_modules
